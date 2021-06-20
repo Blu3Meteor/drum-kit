@@ -11,6 +11,11 @@ h1 {
 
 }
 
+p {
+  color: #CDF0EA;
+  font-family: "Arvo", sans-serif;
+}
+
 footer {
   color: #DBEDF3;
   font-family: sans-serif;
